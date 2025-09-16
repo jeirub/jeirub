@@ -1,4 +1,4 @@
-Estudiante de último semestre de Ingeniería de Sistemas con habilidades destacadas como Frontend Developer. Experiencia laboral en Educamás y participación en el Bootcamp de Prográmate Academy by Simplon. Apasionado por el desarrollo web con sólidos conocimientos en JavaScript, HTML, CSS, Python, React, Git, GitHub y Figma.
+Ingeniero de Sistemas con habilidades destacadas como Frontend Developer. Experiencia laboral en Educamás y participación en el Bootcamp de Prográmate Academy by Simplon. Apasionado por el desarrollo web con sólidos conocimientos en JavaScript, HTML, CSS, Python, React, Git, GitHub y Figma.
 
 Educación
 Universidad Nacional Abierta y a Distancia (UNAD)
