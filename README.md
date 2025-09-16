@@ -3,7 +3,6 @@ Ingeniero de Sistemas con habilidades destacadas como Frontend Developer. Experi
 Educación
 Universidad Nacional Abierta y a Distancia (UNAD)
 Ingeniería de Sistemas
-Cursando último semestre
 Cursos
 Azure DevOps
 Inglés Básico I y II
@@ -25,7 +24,6 @@ Herramientas de Diseño:
 Figma
 Proyectos Destacados
 Bootcamp Prográmate Academy by Simplon
-Desarrollo de proyectos relevantes durante el bootcamp.
 Enlaces
 GitHub
 LinkedIn
